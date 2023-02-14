@@ -1,0 +1,3 @@
+[submodule "meta-adi"]
+	path = meta-adi
+	url = https://github.com/analogdevicesinc/meta-adi
